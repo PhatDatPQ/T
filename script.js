@@ -26,12 +26,6 @@ $(function () {
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     },
     {
-        artist: "V.A",
-        name: "Mashup Cover",
-        url: "Musics/MashupCover.mp3",
-        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-    },
-    {
         artist: "NICE",
         name: "FUCK",
         url: "https://ia601408.us.archive.org/11/items/diamondnoacemanhnhatbatterTH647/37161713_2_vi.mp3?s=1.0",
